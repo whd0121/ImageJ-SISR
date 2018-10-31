@@ -1,0 +1,7 @@
+Copy pre-trained models into this folder.
+
+Each pre-trained model folder should contain:
+
+1. a "variables" folder
+
+2. a "saved_model.pb" file.
